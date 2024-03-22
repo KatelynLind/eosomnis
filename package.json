@@ -1,0 +1,27 @@
+{
+  "name": "eosomnis",
+  "version": "1.0.0",
+  "description": "Neutrino preset for adding Airbnb's JS ESLint config, following the Airbnb styleguide",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KatelynLind/eosomnis.git"
+  },
+  "keywords": [
+    "quia",
+    "recusandae",
+    "laborum",
+    "eslint"
+  ],
+  "author": "RosemarieHowell",
+  "license": "MPL-2.0",
+  "homepage": "https://github.com/KatelynLind/eosomnis.git",
+  "dependencies": {
+    "deepmerge": "^1.3.2",
+    "eslint-config-airbnb": "^14.1.0",
+    "neutrino-lint-base": "^4.3.1"
+  },
+  "peerDependencies": {
+    "neutrino": "^4.0.0"
+  }
+}
